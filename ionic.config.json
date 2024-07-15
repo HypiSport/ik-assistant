@@ -1,0 +1,8 @@
+{
+  "name": "IK Assistant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "da8668cf"
+}
